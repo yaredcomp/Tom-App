@@ -1,0 +1,6 @@
+{
+  "name": "TomTom Maps",
+  "description": "Satellite map viewer and GPS route planner with TomTom Navigation SDK",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

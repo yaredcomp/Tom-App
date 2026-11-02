@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for the TomTom Satellite Map & Route Planner Android application in Kotlin and Jetpack Compose. Covers TomTom SDK configuration, satellite imagery, location management, routing engine, and responsive UI overlay.",
+  "updatedAt": "2026-11-02T23:20:10.728723503Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
